@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinButNum", "Lab3.Semiletov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStandartDialog", "Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\TestStandartDialog.csproj", "{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestColorDialog", "Lab4.Semiletova\Task2\TestStandartDialog\TestStandartDialog\TestColorDialog.csproj", "{3239504A-722E-417E-9FAC-BD44BE8BBF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFontDialog", "Lab4.Semiletova\Task3\TestStandartDialog\TestStandartDialog\TestFontDialog.csproj", "{25210D95-FA13-4E02-9E13-CBBF9B5649E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3239504A-722E-417E-9FAC-BD44BE8BBF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3239504A-722E-417E-9FAC-BD44BE8BBF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3239504A-722E-417E-9FAC-BD44BE8BBF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3239504A-722E-417E-9FAC-BD44BE8BBF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25210D95-FA13-4E02-9E13-CBBF9B5649E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25210D95-FA13-4E02-9E13-CBBF9B5649E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25210D95-FA13-4E02-9E13-CBBF9B5649E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25210D95-FA13-4E02-9E13-CBBF9B5649E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
