@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTimer2", "WinTimer2\WinTimer2.csproj", "{F6BFA881-8F78-47BC-896A-3FB930EB8B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BFA881-8F78-47BC-896A-3FB930EB8B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BFA881-8F78-47BC-896A-3FB930EB8B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BFA881-8F78-47BC-896A-3FB930EB8B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BFA881-8F78-47BC-896A-3FB930EB8B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84366E7-5EED-47F9-8761-81A8ACCACDF2}
+	EndGlobalSection
+EndGlobal

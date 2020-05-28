@@ -1,0 +1,10 @@
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
+C:\Users\Екатерина\Desktop\ИТМО\WinForms\ITMO.Labs.WinForms\Lab4.Semiletova\Task1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.FormCanSaveText.resources
