@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFontDialog", "TestStandartDialog\TestFontDialog.csproj", "{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owner", "Owner.csproj", "{F0C09C9F-EC33-4620-813D-35A69BED1A0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF28B402-CA20-4F1E-ABA0-F36DB329C2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C09C9F-EC33-4620-813D-35A69BED1A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C09C9F-EC33-4620-813D-35A69BED1A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C09C9F-EC33-4620-813D-35A69BED1A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C09C9F-EC33-4620-813D-35A69BED1A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D5C5F563-4758-4C5F-887C-A1BAFC6314A1}
+		SolutionGuid = {3CDE8CA1-8E26-4AA1-A21E-489AA83D457B}
 	EndGlobalSection
 EndGlobal
